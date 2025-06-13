@@ -1,3 +1,4 @@
+package mathutils;
 import java.util.Scanner;
 
 public class CustException {
