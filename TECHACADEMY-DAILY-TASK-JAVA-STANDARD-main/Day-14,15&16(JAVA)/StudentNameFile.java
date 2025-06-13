@@ -9,7 +9,7 @@ public class StudentNameFile {
         studentNames.add("PeterParker");
         studentNames.add("Odin");
 
-        String filename = "E:\\Cognizant\\Daily_tasks_JS002\\TECHACADEMY-DAILY-TASK-JAVA-STANDARD-main\\Day - 14&15(java)/students.txt";
+        String filename = "E:\\Cognizant\\Daily_tasks_JS002\\TECHACADEMY-DAILY-TASK-JAVA-STANDARD-main\\Day-14,15&16(JAVA)/students.txt";
 
         BufferedWriter writer = new BufferedWriter(new FileWriter(filename));
         for (String name : studentNames) {
